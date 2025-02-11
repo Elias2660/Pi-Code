@@ -1,0 +1,50 @@
+  100  omxplayer 2021-04-30\ 10\:41\:27.572991.h264 
+  101  cd
+  102  emacs mounter.sh
+  103  sudo reboot
+  104  lsblk
+  105  cd /mnt/usb
+  106  ls
+  107  omxplayer 2021-04-30\ 10\:47\:52.900662.h264 
+  108  du -h 2021-04-30\ 10\:47\:52.900662.h264 
+  109  jobs
+  110  cd
+  111  python cam.py 
+  112  sudo python3 cam.py 
+  113  more cam.py 
+  114  sudo python3 cam.py 
+  115  sudo apt-get install parallel
+  116  emaccd
+  117  emacs mounter.sh
+  118  sudo reboot
+  119  jobs
+  120  ps -ef | grep python
+  121  sudo kill -9 python
+  122  sudo pkill -9 python
+  123  ls
+  124  cp pin.py.original pin.py
+  125  cd ~/
+  126  ls
+  127  cd ../
+  128  ls
+  129  cd ../
+  130  ls
+  131  cd media
+  132  ls
+  133  cd mnt
+  134  cd ../mnt
+  135  ls
+  136  cd usb
+  137  ls
+  138  cd
+  139  ls
+  140  cp *.* /mnt/usb
+  141  sudo cp *.* /mnt/usb
+  142  cd /mnt/usb
+  143  ls
+  144  sudo cp ~/bashrc ./
+  145  sudo cp ~/.bashrc ./
+  146  shutdown now
+  147  sudo adduser rmartin
+  148  history 
+  149  history | tail -50l > command-history.txt
