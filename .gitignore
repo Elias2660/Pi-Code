@@ -1,7 +1,17 @@
 .ssh
 .parallel
 
+# Swap files
+*.swp
+
+# Backup files
 *~
+
+# Temporary files and directories
+.parallel/tmp/
+
+# Command history files
+command-history.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
